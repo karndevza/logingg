@@ -11,7 +11,7 @@
 
     <link rel="canonical" href="">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
-    <meta name="google-signin-client_id" content="1047015305228-usug13ac84ouvk3n1c8tbte6mofekh3c.apps.googleusercontent.com">
+    <meta name="google-signin-client_id" content="1047015305228-3ifddpv8ernute285kpmkmu1i5oo6hfu.apps.googleusercontent.com">
 
 </head>
 <body>
