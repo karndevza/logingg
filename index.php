@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta name="google-site-verification" content="aPKgi0y75-X6emJLgH7SHtHJ5AgkH4uxJs9COM-XOsc" />
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="generator" content="">
@@ -11,6 +11,7 @@
 
     <link rel="canonical" href="">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
+  
     <meta name="google-signin-client_id" content="1047015305228-3ifddpv8ernute285kpmkmu1i5oo6hfu.apps.googleusercontent.com">
 
 </head>
