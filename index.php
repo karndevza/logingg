@@ -12,7 +12,7 @@
     <link rel="canonical" href="">
     <script src="https://apis.google.com/js/platform.js" async defer></script>
   
-    <meta name="google-signin-client_id" content="1047015305228-3ifddpv8ernute285kpmkmu1i5oo6hfu.apps.googleusercontent.com">
+    <meta name="google-signin-client_id" content="693739184619-nvg72e274lgcmj2buhinbus5hdqtnqh2.apps.googleusercontent.com">
 
 </head>
 <body>
